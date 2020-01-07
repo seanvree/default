@@ -1,4 +1,4 @@
-# Security Policy
+# Monitorr Security Policy
 
 
 ## Reporting a Vulnerability:
