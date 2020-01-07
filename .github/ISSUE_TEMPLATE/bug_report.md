@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: "[BUG:] / [Describe problem] / OS & web server if applicable"
+labels: ''
+assignees: seanvree
+
+---
+
 ## Your environment:
 
 - **Operating system**:   Windows 10P x65 build: 1709
