@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: "[BUG:] / [Describe problem] / OS & web server if applicable"
-labels: ''
+labels: 'bug'
 assignees: seanvree
 
 ---
